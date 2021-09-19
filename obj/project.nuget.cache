@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3EWO17c/w88ERi8zEEEF2JCH2euTwiYZdlGTY2hnW9UI/WLBtkUaaDxwQWG7bOGYdxWwFhbmpsYJmVe2OlXfng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AYOUB\\Desktop\\Pro ASP.NEt Core\\CHAPTER 3\\PartyInvites\\PartyInvites.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AYOUB\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
